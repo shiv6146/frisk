@@ -1,5 +1,5 @@
 [package]
-name = "spot"
+name = "frisk"
 version = "0.1.0"
 edition = "2021"
 description = "Spot file(s) or folder(s) in your filesystem by its name"
