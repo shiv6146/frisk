@@ -21,7 +21,7 @@ fn get_default_root() -> Option<String> {
 impl Conf {
     pub fn build() -> Self {
 
-        let matches = Command::new("spot")
+        let matches = Command::new("frisk")
         .version("1.0")
         .author("Shiva <siv6146@gmail.com>")
         .about("Spot file(s) or folder(s) in your filesystem by its name")
