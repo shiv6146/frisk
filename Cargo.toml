@@ -1,6 +1,6 @@
 [package]
 name = "frisk"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Spot file(s) or folder(s) in your filesystem by its name"
 license = "MIT OR Apache-2.0"
